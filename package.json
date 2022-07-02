@@ -1,0 +1,22 @@
+{
+  "name": "katzenbox",
+  "displayName": "Katzenbox",
+  "description": "Miz maz muz.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.68.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Katzenbox",
+        "uiTheme": "vs",
+        "path": "./themes/Katzenbox-color-theme.json"
+      }
+    ]
+  },
+  "publisher": "lukasmaxim"
+}
